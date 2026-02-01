@@ -1,5 +1,7 @@
 {
-    "tokens": [
-     "8483151063:AAHBkVcw9FkJlQ7D0hnI8MyebMSBSvL1vC0"
-     ]
+   "status" : "on",
+  "allowed_numbers": [
+    "6285147124823",
+    "6283180816430"
+  ]
 }
